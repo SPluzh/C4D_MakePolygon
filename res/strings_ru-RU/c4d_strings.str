@@ -1,0 +1,8 @@
+// C4D-StringResource
+// Identifier Text
+
+STRINGTABLE
+{
+    IDS_MAKEPOLYGON_COMMAND "Make Polygon (Modo P)";
+    IDS_MAKEPOLYGON_HELP    "Создает полигон из выбранных точек/ребер или закрывает дыру (аналог клавиши P в Modo)";
+}

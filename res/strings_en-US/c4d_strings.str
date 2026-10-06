@@ -1,0 +1,8 @@
+// C4D-StringResource
+// Identifier Text
+
+STRINGTABLE
+{
+    IDS_MAKEPOLYGON_COMMAND "Make Polygon (Modo P)";
+    IDS_MAKEPOLYGON_HELP    "Creates a polygon from selected points/edges or closes hole (Modo P hotkey style)";
+}
