@@ -57,14 +57,6 @@ To match the Modo workflow:
 * **CMake 3.24+**
 * **Cinema 4D SDK 2025 or 2026**
 
-### Build Scripts
-The repository includes automated PowerShell and batch build scripts:
-
-* `build_2026.bat` / `build_2026.ps1` — Configures CMake and compiles Release x64 for Cinema 4D 2026.
-* `build_2025.bat` / `build_2025.ps1` — Configures CMake and compiles Release x64 for Cinema 4D 2025.
-* `pack_release.bat` — Packages both 2025 and 2026 binaries into a distributable `.zip` archive.
-* `deploy_2026.bat` / `deploy_2026.ps1` — Deploys built binaries to a designated test/plugins folder.
-
 ---
 
 ## License
