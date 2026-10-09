@@ -6,7 +6,7 @@
 namespace cinema
 {
 
-#define PLUGIN_ID_MAKEPOLYGON 1067832
+#define PLUGIN_ID_MAKEPOLYGON 1071074
 
 class MakePolygonCommand : public CommandData
 {
